@@ -1,4 +1,4 @@
-Umur;Jenis Kelamin;tekanan darah;Cholesterol;Rasio Natrium terhadap Kalium;Drug
+Umur;Jenis_Kelamin;tekanan_darah;Cholesterol;Rasio_Natrium_terhadap_Kalium;obat
 23;F;HIGH;HIGH;25.355;drugY
 47;M;LOW;HIGH;13.093;drugC
 47;M;LOW;HIGH;10.114;drugC
